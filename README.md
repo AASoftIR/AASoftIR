@@ -24,19 +24,6 @@
 
 ---
 
-### <img align="center" src="https://github.com/aasoftir/aasoftir/blob/main/icons/activity.gif" width="25"/> Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-2. 🚀 Pushed 3 commits to [aasoftir/project-x](https://github.com/aasoftir/project-x)
-3. 🎉 Merged PR [#15](https://github.com/aasoftir/awesome-app/pull/15) in [aasoftir/awesome-app](https://github.com/aasoftir/awesome-app)
-4. 👀 Reviewed PR [#22](https://github.com/open-source-project/cool-feature/pull/22) in [open-source-project/cool-feature](https://github.com/open-source-project/cool-feature)
-5. 🐛 Fixed a bug in [aasoftir/bug-tracker](https://github.com/aasoftir/bug-tracker/issues/7)
-<!--END_SECTION:activity-->
-
-
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasoftir&theme=dark" alt="aasoftir's contribution streak" />
 </p>
