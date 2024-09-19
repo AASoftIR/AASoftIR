@@ -33,26 +33,7 @@
 5. 🐛 Fixed a bug in [aasoftir/bug-tracker](https://github.com/aasoftir/bug-tracker/issues/7)
 <!--END_SECTION:activity-->
 
----
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/aasoftir/aasoftir/blob/main/icons/projects.gif" width="29"/> Featured Projects</h4></summary>
-
-  #### <a href="https://github.com/aasoftir/lamp-stack-wizard">LAMP Stack Wizard</a>
-  <span><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></span>
-  - Developed a one-click LAMP stack setup tool for rapid web development environment deployment.
-  - Achieved 1000+ downloads and 4.8/5 star rating on developer forums.
-
-  #### <a href="https://github.com/aasoftir/responsive-portfolio-builder">Responsive Portfolio Builder</a>
-  <span><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></span>
-  - Created a drag-and-drop portfolio website builder with responsive design templates.
-  - Used by 500+ freelancers and professionals to showcase their work online.
-
-  #### <a href="https://github.com/aasoftir/buggy-code-fixer">Buggy Code Fixer</a>
-  <span><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></span>
-  - Developed an AI-powered tool that identifies and suggests fixes for common coding errors.
-  - Featured on ProductHunt with 2000+ upvotes and used by coding bootcamps worldwide.
-</details>
 
 ---
 
