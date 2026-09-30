@@ -1,0 +1,66 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    - cron: "23 3 * * *" # once per day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 0
+          EXCLUDE: ""
+          AUTO_PUSH: false
+          THEME: tokyonight
+          ANIMATION: ""
+          DURATION: ""
+          NAME: "Alireza Mohebbi"
+
+      - name: Prepare local profile assets
+        run: mkdir -p profile-assets
+
+      - name: Generate trophy SVG locally
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile-assets/trophy.svg
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          theme: tokyonight
+
+      - name: Commit refreshed assets
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile-summary-card-output profile-assets/trophy.svg
+
+          if git diff --cached --quiet; then
+            echo "Profile assets are already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh profile stats"
+          git push
