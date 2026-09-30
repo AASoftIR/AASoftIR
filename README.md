@@ -19,18 +19,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AASoftIR&label=Profile%20views&color=36bcf7&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/AASoftIR?label=Followers&style=flat-square&color=36bcf7" alt="followers"/>
-  <img src="https://img.shields.io/badge/ðŸ“-Qom%2C%20Iran-36bcf7?style=flat-square" alt="location"/>
-  <img src="https://img.shields.io/badge/ðŸ§-Daily%20driver%3A%20Linux-36bcf7?style=flat-square" alt="linux"/>
+  <img src="https://img.shields.io/badge/📍-Qom%2C%20Iran-36bcf7?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/🐧-Daily%20driver%3A%20Linux-36bcf7?style=flat-square" alt="linux"/>
 </p>
 
 ---
 
-## ðŸ§‘â€ðŸ’» `whoami`
+## 🧑‍💻 `whoami`
 
 ```python
 class AlirezaMohebbi:
-    role      = "Computer Engineering undergrad Â· Software Developer"
-    location  = "Qom, Iran ðŸ‡®ðŸ‡·"
+    role      = "Computer Engineering undergrad · Software Developer"
+    location  = "Qom, Iran 🇮🇷"
     languages = ["Python", "JavaScript/TypeScript", "PHP", "SQL", "Rust (learning)"]
     interests = ["web apps", "developer tools", "automation", "AI-enabled software", "Linux desktop"]
 
@@ -53,14 +53,14 @@ class AlirezaMohebbi:
 
 ---
 
-## ðŸš€ Selected work
+## 🚀 Selected work
 
 | | Project | What it demonstrates | Stack |
 |:-:|---|---|---|
-| ðŸ§  | **[AI Exam Generator](https://github.com/AASoftIR/QA-generator)** | Document processing, LLM integration, async workflow, bilingual UI and grading | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square) ![LLM](https://img.shields.io/badge/-LLM%20APIs-412991?logo=openai&style=flat-square) |
-| âš¡ | **[FlowTransfer](https://github.com/AASoftIR/dl-manager-linux)** ðŸš§ | Linux-native desktop engineering, download & media workflows *(in development)* | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&style=flat-square) ![GTK](https://img.shields.io/badge/-GTK4%2Flibadwaita-4A86CF?logo=gtk&logoColor=white&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square) ![FFmpeg](https://img.shields.io/badge/-FFmpeg%20%2B%20yt--dlp-007808?logo=ffmpeg&style=flat-square) |
-| ðŸ“œ | **[Persian Poetry](https://github.com/AASoftIR/persian-poetry-nextjs)** | Small deployed Persian web product (RTL, typography, content) | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) |
-| ðŸª | **[3D Portfolio Experiment](https://github.com/AASoftIR/portfolio-3d)** | WebGL / 3D interaction | ![React](https://img.shields.io/badge/-R3F%20%2B%20Drei-20232A?logo=react&style=flat-square) ![Three.js](https://img.shields.io/badge/-Three.js-000?logo=threedotjs&style=flat-square) |
+| 🧠 | **[AI Exam Generator](https://github.com/AASoftIR/QA-generator)** | Document processing, LLM integration, async workflow, bilingual UI and grading | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square) ![LLM](https://img.shields.io/badge/-LLM%20APIs-412991?logo=openai&style=flat-square) |
+| ⚡ | **[FlowTransfer](https://github.com/AASoftIR/dl-manager-linux)** 🚧 | Linux-native desktop engineering, download & media workflows *(in development)* | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&style=flat-square) ![GTK](https://img.shields.io/badge/-GTK4%2Flibadwaita-4A86CF?logo=gtk&logoColor=white&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square) ![FFmpeg](https://img.shields.io/badge/-FFmpeg%20%2B%20yt--dlp-007808?logo=ffmpeg&style=flat-square) |
+| 📜 | **[Persian Poetry](https://github.com/AASoftIR/persian-poetry-nextjs)** | Small deployed Persian web product (RTL, typography, content) | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) |
+| 🪐 | **[3D Portfolio Experiment](https://github.com/AASoftIR/portfolio-3d)** | WebGL / 3D interaction | ![React](https://img.shields.io/badge/-R3F%20%2B%20Drei-20232A?logo=react&style=flat-square) ![Three.js](https://img.shields.io/badge/-Three.js-000?logo=threedotjs&style=flat-square) |
 
 <p align="center">
   <a href="https://github.com/AASoftIR/QA-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AASoftIR&repo=QA-generator&theme=tokyonight&hide_border=true" alt="QA-generator"/></a>
@@ -71,27 +71,27 @@ class AlirezaMohebbi:
 
 ---
 
-## ðŸ¤– AI in my engineering workflow
+## 🤖 AI in my engineering workflow
 
 I use LLMs to accelerate **research, architecture exploration, debugging, test generation, code review, and documentation**. I don't treat generated code as automatically correct. Here's the loop every AI suggestion has to survive before it gets merged:
 
 ```mermaid
 flowchart LR
-    A([ðŸ’¡ Idea / Bug]) --> B[ðŸ¤– Ask the LLM]
-    B --> C{â–¶ï¸ Does it run?}
+    A([💡 Idea / Bug]) --> B[🤖 Ask the LLM]
+    B --> C{▶️ Does it run?}
     C -- no --> B
-    C -- yes --> D[ðŸ” Read & inspect]
-    D --> E[ðŸ§ª Write / run tests]
-    E --> F{ðŸ§  Can I explain it?}
-    F -- no --> G[ðŸ“š Learn the gap] --> D
-    F -- yes --> H([âœ… Keep & document])
+    C -- yes --> D[🔍 Read & inspect]
+    D --> E[🧪 Write / run tests]
+    E --> F{🧠 Can I explain it?}
+    F -- no --> G[📚 Learn the gap] --> D
+    F -- yes --> H([✅ Keep & document])
 ```
 
 > My goal is to become a stronger engineer **with AI in the loop**, not an engineer who depends on AI to hide gaps in understanding.
 
 ---
 
-## ðŸ› ï¸ Core toolkit
+## 🛠️ Core toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,php,rust,html,css&perline=7" alt="languages"/><br/>
@@ -100,22 +100,22 @@ flowchart LR
 </p>
 
 <details>
-<summary><b>ðŸ“‹ Full list (click to expand)</b></summary>
+<summary><b>📋 Full list (click to expand)</b></summary>
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python Â· JavaScript/TypeScript Â· PHP Â· SQL Â· HTML/CSS Â· Rust *(learning)* |
-| **Web** | Flask/Django Â· Node.js/Express Â· React/Next.js Â· Laravel Â· REST APIs Â· Tailwind CSS |
-| **Data** | SQLite Â· MySQL Â· PostgreSQL |
-| **AI & automation** | LLM API integration Â· OpenAI-compatible APIs Â· RAG fundamentals Â· n8n Â· structured outputs |
-| **Desktop** | GTK4 / libadwaita Â· yt-dlp Â· FFmpeg |
-| **Engineering** | Git/GitHub Â· Linux Â· testing/debugging Â· GitHub Actions |
+| **Languages** | Python · JavaScript/TypeScript · PHP · SQL · HTML/CSS · Rust *(learning)* |
+| **Web** | Flask/Django · Node.js/Express · React/Next.js · Laravel · REST APIs · Tailwind CSS |
+| **Data** | SQLite · MySQL · PostgreSQL |
+| **AI & automation** | LLM API integration · OpenAI-compatible APIs · RAG fundamentals · n8n · structured outputs |
+| **Desktop** | GTK4 / libadwaita · yt-dlp · FFmpeg |
+| **Engineering** | Git/GitHub · Linux · testing/debugging · GitHub Actions |
 
 </details>
 
 ---
 
-## ðŸ“Š GitHub at a glance
+## 📊 GitHub at a glance
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AASoftIR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
@@ -144,7 +144,7 @@ flowchart LR
 
 ---
 
-## ðŸŽ“ Learning & certificates
+## 🎓 Learning & certificates
 
 <p>
   <img src="https://img.shields.io/badge/Harvard-CS50-A51C30?style=for-the-badge&logo=harvardbusinessschool&logoColor=white" alt="CS50"/>
@@ -154,28 +154,28 @@ flowchart LR
   <img src="https://img.shields.io/badge/LangChain.js-Course-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
 </p>
 
-ðŸ“ Full archive: **[AASoftIR/certificates](https://github.com/AASoftIR/certificates)**
+📁 Full archive: **[AASoftIR/certificates](https://github.com/AASoftIR/certificates)**
 
 ---
 
-## ðŸ§­ Roadmap
+## 🧭 Roadmap
 
 - [x] Ship a real LLM-powered product end to end (AI Exam Generator)
 - [x] Deploy a Persian-first web product
-- [ ] Release **FlowTransfer v1.0** on Linux ðŸ§
+- [ ] Release **FlowTransfer v1.0** on Linux 🐧
 - [ ] Reach solid test coverage on my main projects
 - [ ] Write technical posts about what I build and break
 - [ ] Contribute to an open-source Linux / dev-tools project
 
 ---
 
-## âš¡ Fun facts
+## ⚡ Fun facts
 
 ```yaml
 editor_theme:   dark, always
 os:             Linux (obviously)
 favorite_bug:   the one that only happens in production
-coffee_or_tea:  Ú†Ø§ÛŒ â˜•
+coffee_or_tea:  چای ☕
 motto:          "If I can't explain it, I don't ship it."
 ```
 
@@ -185,30 +185,30 @@ motto:          "If I can't explain it, I don't ship it."
 
 ---
 
-## ðŸ“¬ Let's connect
+## 📬 Let's connect
 
 <p align="center">
-  <a href="https://aasoft.ir"><img src="https://img.shields.io/badge/ðŸŒ_aasoft.ir-0A66C2?style=for-the-badge" alt="site"/></a>
+  <a href="https://aasoft.ir"><img src="https://img.shields.io/badge/🌐_aasoft.ir-0A66C2?style=for-the-badge" alt="site"/></a>
   <a href="https://github.com/AASoftIR"><img src="https://img.shields.io/badge/GitHub-AASoftIR-181717?style=for-the-badge&logo=github" alt="github"/></a>
   <a href="mailto:aasoftmohebbi@gmail.com"><img src="https://img.shields.io/badge/aasoftmohebbi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
 </p>
 
 <p align="center">
-  ðŸ“ <b>Qom, Iran</b> Â· open to <b>junior</b>, <b>internship/apprenticeship</b>, <b>freelance</b>, and <b>remote</b> software opportunities
+  📍 <b>Qom, Iran</b> · open to <b>junior</b>, <b>internship/apprenticeship</b>, <b>freelance</b>, and <b>remote</b> software opportunities
 </p>
 
 <details>
-<summary>ðŸ‡®ðŸ‡· <b>ÙØ§Ø±Ø³ÛŒ</b></summary>
+<summary>🇮🇷 <b>فارسی</b></summary>
 <br/>
 <div dir="rtl" align="right">
 
-### Ø³Ù„Ø§Ù…ØŒ Ù…Ù† Ø¹Ù„ÛŒØ±Ø¶Ø§ Ù…Ø­Ø¨ÛŒ Ù‡Ø³ØªÙ… ðŸ‘‹
+### سلام، من علیرضا محبی هستم 👋
 
-Ø¯Ø§Ù†Ø´Ø¬ÙˆÛŒ Ù…Ù‡Ù†Ø¯Ø³ÛŒ Ú©Ø§Ù…Ù¾ÛŒÙˆØªØ± Ùˆ ØªÙˆØ³Ø¹Ù‡â€ŒØ¯Ù‡Ù†Ø¯Ù‡ Ù†Ø±Ù…â€ŒØ§ÙØ²Ø§Ø± Ù‡Ø³ØªÙ…. ØªÙ…Ø±Ú©Ø²Ù… Ø±ÙˆÛŒ **ØªÙˆØ³Ø¹Ù‡ ÙˆØ¨**ØŒ **Ø§Ø¨Ø²Ø§Ø±Ù‡Ø§ÛŒ Ù„ÛŒÙ†ÙˆÚ©Ø³ÛŒ**ØŒ **Ø§ØªÙˆÙ…Ø§Ø³ÛŒÙˆÙ†** Ùˆ Ø³Ø§Ø®Øª Ù†Ø±Ù…â€ŒØ§ÙØ²Ø§Ø±Ù‡Ø§ÛŒÛŒ Ø§Ø³Øª Ú©Ù‡ Ø§Ø² **Ù‡ÙˆØ´ Ù…ØµÙ†ÙˆØ¹ÛŒ Ø¨Ù‡â€ŒØ¹Ù†ÙˆØ§Ù† ÛŒÚ© Ø§Ø¨Ø²Ø§Ø± Ù…Ù‡Ù†Ø¯Ø³ÛŒ** Ø§Ø³ØªÙØ§Ø¯Ù‡ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.
+دانشجوی مهندسی کامپیوتر و توسعه‌دهنده نرم‌افزار هستم. تمرکزم روی **توسعه وب**، **ابزارهای لینوکسی**، **اتوماسیون** و ساخت نرم‌افزارهایی است که از **هوش مصنوعی به‌عنوان یک ابزار مهندسی** استفاده می‌کنند.
 
-Ù‡Ø¯Ù ÙØ¹Ù„ÛŒ Ù…Ù† ØªÙ…Ø§Ù…â€ŒÚ©Ø±Ø¯Ù† Ù¾Ø±ÙˆÚ˜Ù‡â€ŒÙ‡Ø§ÛŒ Ú©Ù…ØªØ± Ø§Ù…Ø§ Ø¹Ù…ÛŒÙ‚â€ŒØªØ±ØŒ Ù†ÙˆØ´ØªÙ† ØªØ³Øª Ùˆ Ù…Ø³ØªÙ†Ø¯Ø§Øª Ø¨Ù‡ØªØ± Ùˆ Ø±Ø³ÛŒØ¯Ù† Ø¨Ù‡ Ø³Ø·Ø­ÛŒ Ø§Ø³Øª Ú©Ù‡ Ø¨ØªÙˆØ§Ù†Ù… Ú©Ø¯ Ùˆ ØªØµÙ…ÛŒÙ…â€ŒÙ‡Ø§ÛŒ ÙÙ†ÛŒ Ù¾Ø±ÙˆÚ˜Ù‡â€ŒÙ‡Ø§ÛŒÙ… Ø±Ø§ Ø¯Ù‚ÛŒÙ‚ ØªÙˆØ¶ÛŒØ­ Ø¨Ø¯Ù‡Ù… Ùˆ Ø¯ÛŒØ¨Ø§Ú¯ Ú©Ù†Ù….
+هدف فعلی من تمام‌کردن پروژه‌های کمتر اما عمیق‌تر، نوشتن تست و مستندات بهتر و رسیدن به سطحی است که بتوانم کد و تصمیم‌های فنی پروژه‌هایم را دقیق توضیح بدهم و دیباگ کنم.
 
-ðŸ“ Ù‚Ù…ØŒ Ø§ÛŒØ±Ø§Ù† Â· Ø¢Ù…Ø§Ø¯Ù‡ Ù‡Ù…Ú©Ø§Ø±ÛŒ Ø¨Ù‡â€ŒØµÙˆØ±Øª Ú©Ø§Ø±Ø¢Ù…ÙˆØ²ÛŒØŒ Ø¬ÙˆÙ†ÛŒÙˆØ±ØŒ ÙØ±ÛŒÙ„Ù†Ø³ Ùˆ Ø¯ÙˆØ±Ú©Ø§Ø±ÛŒ
+📍 قم، ایران · آماده همکاری به‌صورت کارآموزی، جونیور، فریلنس و دورکاری
 
 </div>
 </details>
